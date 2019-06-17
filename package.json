@@ -1,0 +1,28 @@
+{
+  "name": "purescript-bouzuya-http-request-normalized-path",
+  "description": "`Bouzuya.HTTP.Request.NormalizedPath` module",
+  "version": "0.0.0",
+  "author": "bouzuya <m@bouzuya.net> (https://bouzuya.net/)",
+  "bugs": {
+    "url": "https://github.com/bouzuya/purescript-bouzuya-http-request-normalized-path/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "purescript": "^0.13.0",
+    "spago": "^0.8.4"
+  },
+  "homepage": "https://github.com/bouzuya/purescript-bouzuya-http-request-normalized-path#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bouzuya/purescript-bouzuya-http-request-normalized-path.git"
+  },
+  "scripts": {
+    "build": "spago build",
+    "repl": "spago repl",
+    "spago": "spago",
+    "test": "spago test"
+  }
+}
