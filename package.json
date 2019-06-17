@@ -1,7 +1,7 @@
 {
   "name": "purescript-bouzuya-http-request-normalized-path",
   "description": "`Bouzuya.HTTP.Request.NormalizedPath` module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "bouzuya <m@bouzuya.net> (https://bouzuya.net/)",
   "bugs": {
     "url": "https://github.com/bouzuya/purescript-bouzuya-http-request-normalized-path/issues"
